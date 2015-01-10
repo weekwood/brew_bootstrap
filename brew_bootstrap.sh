@@ -12,6 +12,7 @@ brew install mongodb
 brew install node
 brew install sqlite
 brew install wget
+brew install docker
 
 brew cask install atom
 brew cask install cakebrew
