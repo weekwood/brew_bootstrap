@@ -26,6 +26,7 @@ brew cask install skype
 brew cask install sequel-pro
 brew cask install sourcetree
 brew cask install mongohub
+brew cask install macdown
 
 brew cleanup
 brew cask cleanup
