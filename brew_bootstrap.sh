@@ -32,4 +32,5 @@ brew cleanup
 brew cask cleanup
 
 npm install -g pm2
+npm install -g bower
 npm install -g yeoman-generator
